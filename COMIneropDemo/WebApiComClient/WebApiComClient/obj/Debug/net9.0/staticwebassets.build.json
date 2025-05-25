@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZHYDr+LzUkmU3OemM9XTz4reNgGeTBa6txXsEZrjnFQ=",
+  "Source": "WebApiComClient",
+  "BasePath": "_content/WebApiComClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

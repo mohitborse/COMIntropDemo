@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DesktopComServer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|D:\\Gordian\\COMIneropDemo\\DesktopComServer\\desktopcomserver\\com interface\\icommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\com interface\\icommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|D:\\Gordian\\COMIneropDemo\\DesktopComServer\\desktopcomserver\\com interface\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\com interface\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|D:\\Gordian\\COMIneropDemo\\DesktopComServer\\desktopcomserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|D:\\Gordian\\COMIneropDemo\\DesktopComServer\\desktopcomserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|D:\\Gordian\\COMIneropDemo\\DesktopComServer\\desktopcomserver\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|d:\\gordian\\comineropdemo\\desktopcomserver\\desktopcomserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|d:\\gordian\\comineropdemo\\desktopcomserver\\desktopcomserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|solutionrelative:desktopcomserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE8373B-0BF8-45F3-BD60-636F0E662099}|DesktopComServer\\DesktopComServer.csproj|d:\\gordian\\comineropdemo\\desktopcomserver\\desktopcomserver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesktopComServer",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\DesktopComServer.csproj",
+              "RelativeDocumentMoniker": "DesktopComServer\\DesktopComServer.csproj",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\DesktopComServer.csproj*",
+              "RelativeToolTip": "DesktopComServer\\DesktopComServer.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T09:11:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\App.config",
+              "RelativeDocumentMoniker": "DesktopComServer\\App.config",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\App.config",
+              "RelativeToolTip": "DesktopComServer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-25T09:06:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.resx",
+              "RelativeDocumentMoniker": "DesktopComServer\\Form1.resx",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.resx",
+              "RelativeToolTip": "DesktopComServer\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-25T06:58:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DesktopComServer\\Form1.Designer.cs",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.Designer.cs",
+              "RelativeToolTip": "DesktopComServer\\Form1.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:58:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopComServer\\Form1.cs",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.cs",
+              "RelativeToolTip": "DesktopComServer\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:57:48.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Communication.cs",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\COM Interface\\Communication.cs",
+              "RelativeDocumentMoniker": "DesktopComServer\\COM Interface\\Communication.cs",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\COM Interface\\Communication.cs",
+              "RelativeToolTip": "DesktopComServer\\COM Interface\\Communication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:56:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommunication.cs",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\COM Interface\\ICommunication.cs",
+              "RelativeDocumentMoniker": "DesktopComServer\\COM Interface\\ICommunication.cs",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\COM Interface\\ICommunication.cs",
+              "RelativeToolTip": "DesktopComServer\\COM Interface\\ICommunication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:55:28.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopComServer\\Form1.cs",
+              "ToolTip": "D:\\Gordian\\COMIneropDemo\\DesktopComServer\\DesktopComServer\\Form1.cs [Design]",
+              "RelativeToolTip": "DesktopComServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:48:37.379Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

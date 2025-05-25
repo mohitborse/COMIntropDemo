@@ -1,0 +1,10 @@
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\bin\Debug\DesktopComServer.exe.config
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\bin\Debug\DesktopComServer.exe
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\bin\Debug\DesktopComServer.pdb
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.csproj.AssemblyReference.cache
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.Form1.resources
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.Properties.Resources.resources
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.csproj.GenerateResource.cache
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.csproj.CoreCompileInputs.cache
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.exe
+D:\Gordian\COMIneropDemo\DesktopComServer\DesktopComServer\obj\Debug\DesktopComServer.pdb
